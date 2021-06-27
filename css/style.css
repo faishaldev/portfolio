@@ -1,9 +1,14 @@
 html {
   position: relative;
+  margin-top: 50px;
 }
 
 body {
   margin-bottom: 100px;
+}
+
+.navbar-brand {
+  color: white;
 }
 
 .jumbotron {
